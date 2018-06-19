@@ -1,1 +1,1 @@
-curfew=11s
+curfew=11
